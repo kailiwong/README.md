@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hurr durrr burrrr durrrr
-
-
+[![image](https://media.tenor.com/Pp_6LGxxzlAAAAAM/cat-cat-meme.gif)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaili@ambercreative.sg) 
 
